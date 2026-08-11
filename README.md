@@ -21,6 +21,7 @@ Statuts : ✅ Validé · 📝 Brouillon
 | [docs/LORE.md](docs/LORE.md) | 📝 | Le monde : Ère des Divins, 12 Terres (dont la Septième), la Grande Bleue, société |
 | [docs/BOSSES.md](docs/BOSSES.md) | 📝 | Les Sept Entités + monstres uniques, règles de design |
 | [docs/BOSSCONCEPTS.md](docs/BOSSCONCEPTS.md) | 📝 | Concepts de combat détaillés par Entité (phases, canaux, environnement) |
+| [docs/BOSSDOSSIERS.md](docs/BOSSDOSSIERS.md) | 📝 | Dossiers complets de tous les boss : forces, faiblesses, compétences, IA |
 | [docs/CLANS.md](docs/CLANS.md) | 📝 | Guildes, PK, alliance des quatre, économie de l'info |
 | [docs/SYSTEMS.md](docs/SYSTEMS.md) | 📝 | Création de personnage, équipement, forge, économie (vue d'ensemble) |
 | [docs/NPC.md](docs/NPC.md) | 📝 | PNJ autonomes : vies propres, routines, interactions sans « effet IA » |

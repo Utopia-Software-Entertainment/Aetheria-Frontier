@@ -2,7 +2,7 @@
 
 > Document maître du jeu **Aetheria-Frontier**. Tous les autres docs de `docs/` détaillent les sections ici résumées.
 
-> **Statut** : Validé v0.3 · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
+> **Statut** : Validé v0.4 · **Version** : 0.4 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
 
 ## 0. Historique de révision
 
@@ -11,6 +11,7 @@
 | 0.1 | 2026-07-XX | Création (vision, pillars, architecture des docs) |
 | 0.2 | 2026-08-11 | Core loop, audience, priorités P0/P1, 12e Terre (Septième), ref CONTENT.md |
 | 0.3 | 2026-08-11 | 12 voies par canal de contrôle (SYSTEMS.md, COMBAT.md), « La Treizième » en mystère |
+| 0.4 | 2026-08-11 | BOSSDOSSIERS.md : dossiers complets de tous les boss (forces, faiblesses, IA) ; corrections CONTENT.md (uniques 5, zones ~12, Gardien du Sceau) |
 
 ## 1. Vision
 
@@ -118,6 +119,7 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 | `TESTING.md` | Playtest design, métriques, jalons QA |
 | `SERVICE.md` | Service : GMs, modération, support, communauté |
 | `BOSSCONCEPTS.md` | Concepts de combat détaillés par Entité |
+| `BOSSDOSSIERS.md` | Dossiers complets de tous les boss : forces, faiblesses, IA |
 | `LEVELDESIGN.md` | Méthodologie de construction des zones |
 
 ## 10. Roadmap produit

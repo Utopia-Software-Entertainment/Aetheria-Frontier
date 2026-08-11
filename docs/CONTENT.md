@@ -2,7 +2,7 @@
 
 > Le « combien » d'Aetheria : villes, PNJ, armes, boss, quêtes. **Toutes les valeurs sont des cibles à valider en production** — elles définissent le scope de lancement, pas un catalogue figé. Complète `WORLD.md` (zones) et `BALANCE.md` (valeurs).
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
+> **Statut** : Brouillon · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
 
 ## 1. Vue d'ensemble (cibles lancement)
 
@@ -14,8 +14,8 @@
 | Zones secrètes | **3** | Rabituza, Ruluath, Inventoriaire |
 | Donjons de progression | **5** | Voir `WORLD.md` §2 |
 | Donjons d'événement/guilde | **~12** | 1 par Terre environ |
-| Boss de zone | **~11** | 1 par Terre (rotation) |
-| Monstres uniques | **6** | Voir `BOSSES.md` |
+| Boss de zone | **~12** | 1 par Terre (rotation) |
+| Monstres uniques | **5** | Voir `BOSSES.md` |
 | Les Sept Entités | **7** | 2 jouables au lancement (cible), 5 en contenu post-lancement |
 | Scénarios Uniques EX | **7** (+14+ voies) | Un par Entité, conditions secrètes |
 | PNJ nommés | **~600** | ~50 par ville principale |
@@ -54,9 +54,10 @@
 | Catégorie | Nombre |
 |---|---|
 | Entités (2 jouables, 7 au total en service) | 7 |
-| Monstres uniques (non-respawnables) | 6 |
-| Boss de donjon de progression | 5 |
-| Boss de zone (rotation) | ~11 |
+| Monstres uniques (non-respawnables) | 5 |
+| Boss de donjon de progression | 5 (dont **Gardien du Sceau** au Fond des Abysses) |
+| Boss de zone (rotation) | ~12 |
+| Scénario bonus | +1 (Faux Lycaon) |
 | **Total combats « boss » au lancement** | **~24 jouables** |
 
 ## 5. Armes (catalogue cible)

@@ -2,7 +2,7 @@
 
 > Les idées de combat propres à chaque Entité : phases, mécaniques liées aux canaux (regard, voix, inertie), environnement, Marques. **Les conditions de déclenchement des Scénarios EX restent secrètes** — ce doc décrit le combat, pas le chemin pour y arriver. Complète `BOSSES.md` (règles générales) et `COMBAT.md` (système).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : BOSSES.md, COMBAT.md, CONTROLS.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : BOSSES.md, COMBAT.md, CONTROLS.md · **Complété par** : BOSSDOSSIERS.md (dossiers complets de tous les boss : forces, faiblesses, IA)
 
 ## 1. Principes
 
