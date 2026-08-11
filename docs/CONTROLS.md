@@ -2,7 +2,7 @@
 
 > Le cœur de la promesse Aetheria : **aucune manette**. Toutes les commandes passent par le corps, le regard, la voix et l'esprit. Ce document définit le mapping de chaque canal, le mode allongé et les courbes d'accessibilité.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : ACCESSIBILITY.md, ONBOARDING.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : ACCESSIBILITY.md, ONBOARDING.md
 
 ## 1. Principes
 

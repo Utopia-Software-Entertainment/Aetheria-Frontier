@@ -2,7 +2,7 @@
 
 > Inspiration : dans *Shangri-La Frontier* (© Katarina / Kodansha), les PNJ mènent des vies qui leur appartiennent — un forgeron voyage sans prévenir, une femme cherche quelque chose qui ne concerne pas le joueur, un roi se retire. C'est la philosophie que nous transposons dans Aetheria.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, WORLD.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, WORLD.md
 
 ## Philosophie
 
@@ -25,12 +25,12 @@ Chez nous, un PNJ n'est **jamais un panneau de quête ambulant** :
 ## Types de PNJ
 
 ### Métiers
-- **Forgerons** : chacun son style, son sens du nommage, son propre catalogue et ses exigences (matériaux, allégeance). Certains exigent des droits de priorité de guilde.
+- **Forgerons** : chacun son style, son sens du nommage, son propre catalogue et ses exigences (matériaux, allégeance). Certains exigent des droits de priorité de clan.
 - **Saints** : capables de lever des Marques — service rare, cher, et personnalisé.
 - **Marchands, aubergistes, gardes, archivistes** : routines commerciales, rumeurs, informations.
 
 ### Factions
-- Chefs de guilde, officiers, membres — avec des loyautés qui peuvent diverger de leur guilde.
+- Officiers d'institutions (Forge Magique, Archives royales), gardes — avec des loyautés qui peuvent diverger de leur institution.
 - Archivistes de la Bibliothèque : vendent l'information, jamais gratuitement.
 
 ### À vie propre
@@ -45,7 +45,7 @@ Chez nous, un PNJ n'est **jamais un panneau de quête ambulant** :
 
 ### Graphe de relations
 - Relations PNJ↔PNJ et PNJ↔joueur avec valeur, historique et humeur.
-- Les conflits peuvent déclencher des événements mondiaux (fermeture d'une boutique, expulsion d'un membre de guilde, guerre de factions).
+- Les conflits peuvent déclencher des événements mondiaux (fermeture d'une boutique, expulsion d'un membre de clan, guerre de factions).
 
 ### Mémoire et langage
 - Référentiel de souvenirs : qui a aidé, qui a trahi, qui porte une Marque.

@@ -5,7 +5,7 @@
 ## Bloc méta (à copier après le titre)
 
 ```markdown
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : AAAA-MM-JJ · **Owner** : <rôle>
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : <rôle>
 > **Dépend de** : <liste des docs lus en amont>
 ```
 

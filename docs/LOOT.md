@@ -2,7 +2,7 @@
 
 > Ce que le monde donne, pourquoi, et ce qu'il **refuse** de donner. Aetheria ne récompense pas le farm : il récompense la compréhension. Complète `BESTIARY.md` (drops par créature) et `ECONOMY.md` (valeur des objets).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : BESTIARY.md, ECONOMY.md, BALANCE.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : BESTIARY.md, ECONOMY.md, BALANCE.md
 
 ## 1. Principes
 

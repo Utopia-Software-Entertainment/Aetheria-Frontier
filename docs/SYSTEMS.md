@@ -2,7 +2,7 @@
 
 > Inspiration mécanique : les systèmes de *Shangri-La Frontier* (© Katarina / Kodansha), adaptés à nos contraintes : **aucun héros imposé — chaque joueur crée son personnage**, commandes 100 % sans manette (eye-tracking, voix, EEG/EMG, micro-sticks), physique stylisée, mode allongé.
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : GDD.md, CONTROLS.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : GDD.md, CONTROLS.md
 
 ## Principes fondateurs
 

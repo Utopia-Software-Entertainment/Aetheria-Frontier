@@ -2,7 +2,7 @@
 
 > Le système de quêtes d'Aetheria : aucun « panneau de quête » — le monde propose, le joueur choisit. Complète `NPC.md` (PNJ autonomes) et `BOSSES.md` (Entités).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : NPC.md, BOSSES.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : NPC.md, BOSSES.md
 
 ## 1. Principes
 
@@ -18,7 +18,7 @@
 | **Tranche de vie** | Dialogue avec un PNJ autonome | Aider Bilac à forger un prototype |
 | **Situationnelle** | Événement du monde | Défendre un village contre une invasion de la Bleue |
 | **De faction** | Rang/affiliation | Archives royales : document volé |
-| **De guilde** | Clan (voir `CLANS.md`) | Chasse à l'information sur une Entité |
+| **De clan** | Membre d'un clan (voir `CLANS.md`) | Chasse à l'information sur une Entité |
 | **Économique** | Artisanat/marché | Récolter des matériaux pour un forgeron |
 | **Unique EX** | Conditions secrètes | Voir §4 |
 

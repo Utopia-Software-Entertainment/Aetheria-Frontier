@@ -2,7 +2,7 @@
 
 > Lexique du lore et des systèmes. Les définitions sont originales, inspirées des conventions VRMMO.
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : tous les docs
+> **Statut** : Validé v0.3 · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : tous les docs
 
 ## A–Z
 
@@ -26,7 +26,7 @@
 | **Kai (Renforcement)** | Amélioration d'arme en 15 niveaux ; coût explosif après le niveau 10. |
 | **Mahni** | Monnaie d'Aetheria. |
 | **Mailbird** | Système de messagerie par oiseaux ; gratuit pour les alliés. |
-| **Marque** | Malédiction permanente infligée par une Entité (ex. Marque de Lycaon). |
+| **Marque** | Malédiction ou honneur porté après un acte ou une Entité (ex. Marque de Lycaon, Marque de PK) ; levé par des moyens rares (Saints, rédemption). |
 | **Marteau du Crépuscule** | Voie de DPS lourd ; frappes amplifiées par l'amplitude réelle du geste. |
 | **Orateur gravé** | Voie de support/contrôle ; sorts lancés par paroles, gravures sonores. |
 | **Origine** | Choix identitaire à la création (Vagabond, Sang Guidant, Enfant des Bêtes…) ; modifie les interactions avec les PNJ. |

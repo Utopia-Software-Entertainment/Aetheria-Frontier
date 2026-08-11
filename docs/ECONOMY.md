@@ -1,14 +1,14 @@
 # ECONOMY — Économie, artisanat, marché
 
-> L'économie d'Aetheria : l'artisanat est un métier social (PNJ et joueurs), chaque objet est unique, l'information est une monnaie. Complète `SYSTEMS.md` (vue d'ensemble) et `CLANS.md` (guilde/échange d'info).
+> L'économie d'Aetheria : l'artisanat est un métier social (PNJ et joueurs), chaque objet est unique, l'information est une monnaie. Complète `SYSTEMS.md` (vue d'ensemble) et `CLANS.md` (clans/échange d'info).
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Économie · **Dépend de** : SYSTEMS.md, CLANS.md, LOOT.md
+> **Statut** : Validé v0.3 · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Économie · **Dépend de** : SYSTEMS.md, CLANS.md, LOOT.md
 
 ## 1. Principes
 
 1. **Pas de fabrication en série** — deux armes identiques n'existent pas (variations de stats/effets selon l'artisan, les matériaux, la chance).
 2. **L'information est une monnaie** — cartes, identités d'Entités, emplacements de scénarios se vendent (Mahni, troc, faveurs).
-3. **L'artisanat est social** — un objet rare exige plusieurs métiers et des relations (forgeron PNJ, droits de guilde).
+3. **L'artisanat est social** — un objet rare exige plusieurs métiers et des relations (forgeron PNJ, droits de clan).
 4. **La valeur vient de la rareté vraie** — jamais de « skin » d'objets identiques.
 
 ## 2. Monnaies
@@ -51,7 +51,7 @@
 - **Boutiques PNJ** : catalogues fixes, mais prix négociés par relation (un PNJ fidèle baisse ses prix).
 - **Enchères** : place à Cinquantia — objets rares, informations, droits.
 - **Troc direct** : joueur↔joueur, sans intermédiaire.
-- **Vente d'information** : cartes, pistes, identités — la Bibliothèque en fait commerce (voir `CLANS.md`).
+- **Vente d'information** : cartes, pistes, identités — la Bibliothèque (institution des Archives) en fait commerce ; les clans négocient leurs parts entre eux (voir `CLANS.md` §4).
 - **Antiquaires** : achètent et revendent les reliques — au prix fort.
 
 ## 5. Équilibre et anti-inflation

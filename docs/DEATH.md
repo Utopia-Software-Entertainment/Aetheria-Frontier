@@ -2,7 +2,7 @@
 
 > La mort dans Aetheria est une **expérience**, pas une punition. Elle a des coûts, des lieux, des rituels — et le monde s'en souvient. Complète `WORLD.md` (respawn des monstres) et `PVP.md` (pertes en PK).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : WORLD.md, PVP.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : WORLD.md, PVP.md
 
 ## 1. Principes
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | **Sanctuaire** | Villes, lieux sacrés | Point par défaut ; touché automatiquement en passant |
 | **Feu de camp** | Extérieur, zones de progression | Touché volontairement (3 s de chant) |
-| **Rituel de guilde** | Maison de guilde | Réservé aux membres |
+| **Rituel de clan** | Maison de clan | Réservé aux membres |
 | **Cimetière éloigné** | Pour les PK marqués | Loin de la zone de mort (voir `PVP.md`) |
 
 ## 4. Pénalités

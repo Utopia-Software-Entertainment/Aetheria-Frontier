@@ -2,7 +2,7 @@
 
 > Les créatures du monde : familles, comportements, signaux. Chaque bête a un territoire, un langage corporel et une raison d'exister. Complète `WORLD.md` (zones) et `BOSSES.md` (Entités et uniques).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : WORLD.md, BOSSES.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : WORLD.md, BOSSES.md
 
 ## 1. Principes
 

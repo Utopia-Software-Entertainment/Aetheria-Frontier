@@ -2,7 +2,7 @@
 
 > Le système de clans d'Aetheria. **Les clans sont créés par les joueurs — aucun clan n'existe au lancement.** « Clan » et « guilde » sont synonymes dans le monde (les PNJ emploient les deux). Complète `SOCIAL.md` (groupes, communication), `PVP.md` (conflits) et `ECONOMY.md` (information comme monnaie).
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : SOCIAL.md, PVP.md, ECONOMY.md, SERVERWORLD.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : SOCIAL.md, PVP.md, ECONOMY.md, SERVERWORLD.md
 
 ## 0. Principe fondateur
 

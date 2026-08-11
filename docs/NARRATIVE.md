@@ -2,7 +2,7 @@
 
 > Aetheria n'a pas de « quête principale » au sens classique : il a une **histoire du monde** qui avance avec ou sans les joueurs, et que les joueurs font bouger à coups d'événements. Complète `LORE.md` (le passé) et `QUESTS.md` (les quêtes).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, QUESTS.md, WORLD.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, QUESTS.md, WORLD.md
 
 ## 1. Principes
 
@@ -45,7 +45,7 @@
 ## 5. Les acteurs du récit
 
 - **PNJ à vie propre** : ils portent l'histoire (voyages, secrets, relations) — voir `NPC.md`.
-- **Guildes** : les alliances et trahisons écrivent des chapitres (voir `CLANS.md`).
+- **Clans** : les alliances et trahisons écrivent des chapitres (voir `CLANS.md`).
 - **Joueurs** : les victoires, les chutes, les trahisons deviennent des **rumeurs** que les PNJ répètent.
 - **Le serveur** : horloge mondiale + états = le « narrateur » invisible.
 

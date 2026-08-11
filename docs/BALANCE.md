@@ -2,7 +2,7 @@
 
 > Les valeurs de design d'Aetheria, centralisées. **Aucune valeur n'est définitive** : tout est calibré en playtest (voir §8). Ce document est la référence commune entre design et implémentation.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : SYSTEMS.md, COMBAT.md, ECONOMY.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : SYSTEMS.md, COMBAT.md, ECONOMY.md
 
 ## 1. Statistiques de personnage
 
@@ -50,14 +50,14 @@
 | **Taxe d'enchère** | 5 % |
 | **Drops d'or** | Faibles ; la richesse vient du travail (voir `ECONOMY.md`) |
 | **Coût de réparation** | 3 % de la valeur par 10 % de durabilité manquante |
-| **Prix d'un livre rare** | Ordre de grandeur : 100 M Mahni (référence d'histoire, voir `CLANS.md`) |
+| **Prix d'un livre rare** | Ordre de grandeur : 100 M Mahni (référence d'histoire) |
 | **Génération d'objets** | Un seul exemplaire mondial pour les uniques d'Entités |
 
 ## 5. PvP (valeurs cibles)
 
 | Paramètre | Valeur |
 |---|---|
-| **Marque PK** | Attaque d'un non-consentant → marque 24 h (réduite par rédemption) |
+| **Marque PK** | Attaque non consentie → marque provisoire 24 h ; meurtre non consenti → statut PK confirmé (réduit par rédemption) |
 | **Immunité débutant** | 10 premiers niveaux (voir `PVP.md`) |
 | **Perte PK à la mort** | +50 % vs pénalité normale (voir `DEATH.md`) |
 | **Fenêtre de résurrection d'allié** | 60 s |
@@ -70,7 +70,7 @@
 | 2–4 | Donjons courts, escouade | +0–5 du donjon |
 | 5–8 | Donjons complets, événements | +5 |
 | 9–16 | Raids, sièges | +10 (avec préparation) |
-| 16–32 | Entités, guerres de guilde | Scénarios EX requis pour les Entités |
+| 16–32 | Entités, guerres de clans | Scénarios EX requis pour les Entités |
 
 ## 7. Tolérances techniques (contrat de qualité)
 

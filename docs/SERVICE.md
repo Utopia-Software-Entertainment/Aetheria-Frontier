@@ -2,7 +2,7 @@
 
 > L'humain derrière le monde : les GMs, la modération, le support et les événements communautaires. Le service est **invisible** tant que tout va bien. Complète `SOCIAL.md` §6 (modération en jeu) et `MONETIZATION.md` (règles de service).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Studio · **Dépend de** : SOCIAL.md, MONETIZATION.md, CLANS.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Studio · **Dépend de** : SOCIAL.md, MONETIZATION.md, CLANS.md
 
 ## 1. Principes
 
@@ -53,7 +53,7 @@
 |---|---|---|
 | **Concours d'artisanat** | Mensuel | Meilleure arme nommée (jugée par PNJ + joueurs) |
 | **Chasse aux trésors** | Saisonnier | Pistes disséminées par rumeurs |
-| **Tournois de guilde** | Trimestriel | Arènes de Cinquantia |
+| **Tournois de clan** | Trimestriel | Arènes de Cinquantia |
 | **Premières victoires** | Événementiel | Suivi des premières Entités vaincues (journaux) |
 | **Saisons narrées** | Trimestriel | Arcs de la machine à états (voir `NARRATIVE.md`) |
 

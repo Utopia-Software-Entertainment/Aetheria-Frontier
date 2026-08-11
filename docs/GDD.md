@@ -2,7 +2,7 @@
 
 > Document maître du jeu **Aetheria-Frontier**. Tous les autres docs de `docs/` détaillent les sections ici résumées.
 
-> **Statut** : Validé v0.5 · **Version** : 0.5 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
+> **Statut** : Validé v0.6 · **Version** : 0.6 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
 
 ## 0. Historique de révision
 
@@ -13,6 +13,7 @@
 | 0.3 | 2026-08-11 | 12 voies par canal de contrôle (SYSTEMS.md, COMBAT.md), « La Treizième » en mystère |
 | 0.4 | 2026-08-11 | BOSSDOSSIERS.md : dossiers complets de tous les boss (forces, faiblesses, IA) ; corrections CONTENT.md (uniques 5, zones ~12, Gardien du Sceau) |
 | 0.5 | 2026-08-11 | CLANS.md réécrit : clans créés par les joueurs, aucun clan pré-établi ; retrait des guildes canoniques (CONTENT, PVP, ECONOMY) |
+| 0.6 | 2026-08-11 | Revue complète des 34 docs : clarification PK (tuer un joueur → PK marqué, marque provisoire vs statut PK confirmé), normalisation « guilde »→« clan », validation de tous les docs (statuts ✅) |
 
 ## 1. Vision
 
@@ -51,7 +52,7 @@ La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le r
 
 **Boucle courte (combat)** : Lire le monde (regard + oreilles) → Engager (regard + voix) → Frapper juste (inertie + points vitaux + timing) → Récolter (drops, connaissances) → Repartir.
 
-**Boucle sociale** : Rencontrer (voix spatiale) → S'allier (groupe, guilde) → Coopérer (donjons, raids) → Partager l'information (marché de l'info, voir `ECONOMY.md`).
+**Boucle sociale** : Rencontrer (voix spatiale) → S'allier (groupe, clan) → Coopérer (donjons, raids) → Partager l'information (marché de l'info, voir `ECONOMY.md`).
 
 ## 6. Audience cible
 
@@ -73,7 +74,7 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 | **P0** | Monde ouvert 12 Terres + donjons | `WORLD.md`, `LEVELDESIGN.md`, `CONTENT.md` |
 | **P0** | PNJ autonomes (horloge, relations, dialogue) | `NPC.md` |
 | **P1** | Les Sept Entités + Scénarios EX (cible lancement : 2, à valider) | `BOSSES.md`, `BOSSCONCEPTS.md`, `QUESTS.md` |
-| **P1** | Guildes + économie (enchères, artisanat, objets uniques) | `CLANS.md`, `ECONOMY.md`, `LOOT.md` |
+| **P1** | Clans + économie (enchères, artisanat, objets uniques) | `CLANS.md`, `ECONOMY.md`, `LOOT.md` |
 | **P1** | Événements mondiaux + machine à états | `NARRATIVE.md`, `SERVERWORLD.md` |
 | **P1** | Accessibilité consolidée + profils | `ACCESSIBILITY.md` |
 
@@ -100,7 +101,7 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 | `QUESTS.md` | Système de quêtes, Scénarios Uniques EX |
 | `AUDIO.md` | Design audio (spatial, voix, zéro-HUD) |
 | `ECONOMY.md` | Artisanat, récolte, enchères, équilibre |
-| `PVP.md` | PK, duels, guerres de guilde |
+| `PVP.md` | PK, duels, guerres de clans |
 | `ONBOARDING.md` | Calibration multi-capteurs, zone tutoriel, apprentissage sans HUD |
 | `UI.md` | Interface diégétique : sac, carte, carnet, menus vocaux, zéro-HUD |
 | `DEATH.md` | Mort, respawn, pénalités, résurrection |

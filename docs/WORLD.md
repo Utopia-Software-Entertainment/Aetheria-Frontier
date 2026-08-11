@@ -2,7 +2,7 @@
 
 > Le contenu PvE du monde. Complète `LORE.md` (narration) et `BOSSES.md` (Entités).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : LORE.md, BOSSES.md, LEVELDESIGN.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : LORE.md, BOSSES.md, LEVELDESIGN.md
 
 ## 1. Les 12 Terres (détail)
 
@@ -60,7 +60,7 @@
 |---|---|---|
 | **Rumeurs** | Quotidien | « Un forgeron a quitté la ville » (PNJ) |
 | **Événements locaux** | Hebdomadaire | Invasion de la Grande Bleue sur une terre |
-| **Événements de guilde** | Mensuel | Tournois, chasses à primes |
+| **Événements de clan** | Mensuel | Tournois, chasses à primes |
 | **Événements d'histoire** | Rare | Conséquences d'une victoire sur une Entité (Ctharnide → évolution du monde) |
 | **Catastrophes** | Imprévisible | Brèches du sceau, migrations de la faune |
 

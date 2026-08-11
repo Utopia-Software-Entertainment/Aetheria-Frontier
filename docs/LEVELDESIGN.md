@@ -2,7 +2,7 @@
 
 > Comment une Terre passe du lore au terrain jouable : lecture, lisibilité VR, points d'intérêt, budget technique. Ce document est la **méthode**, `WORLD.md` est le **catalogue** et `CONTENT.md` le **chiffrage**.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, ART.md, CONTENT.md, BESTIARY.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, ART.md, CONTENT.md, BESTIARY.md
 
 ## 1. Principes
 

@@ -2,7 +2,7 @@
 
 > Comment on prouve qu'Aetheria fonctionne — avant, pendant et après les playtests. Ce document définit les sessions, les métriques et les jalons de qualité. Complète `BALANCE.md` §8 (réglages) et `ACCESSIBILITY.md` §5 (personas).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : BALANCE.md, ACCESSIBILITY.md, ONBOARDING.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : BALANCE.md, ACCESSIBILITY.md, ONBOARDING.md
 
 ## 1. Principes
 

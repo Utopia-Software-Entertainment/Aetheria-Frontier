@@ -2,7 +2,7 @@
 
 > Aetheria n'a pas de HUD : l'interface vit **dans le monde** (diégétique). Ce document définit comment l'information et les interactions existent sans jamais casser l'immersion. Complète `CONTROLS.md` (canaux) et `AUDIO.md` (feedback sonore).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : CONTROLS.md, AUDIO.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : CONTROLS.md, AUDIO.md
 
 ## 1. Principes
 

@@ -2,7 +2,7 @@
 
 > Apprendre à jouer **sans HUD et sans manette** est le défi n°1 d'Aetheria. Ce document définit le parcours d'entrée : calibration, zone tutoriel, apprentissage des canaux. Complète `CONTROLS.md` (mapping) et `ACCESSIBILITY.md` (réglages).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : CONTROLS.md, ACCESSIBILITY.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : CONTROLS.md, ACCESSIBILITY.md
 
 ## 1. Principes
 

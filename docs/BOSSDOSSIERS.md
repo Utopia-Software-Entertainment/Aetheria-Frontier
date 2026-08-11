@@ -2,7 +2,7 @@
 
 > Le dossier complet de **chaque combat de boss** d'Aetheria : forces, faiblesses, résistances, compétences, comportement IA. Document de production — les joueurs n'ont accès à rien de tout cela en jeu (tout doit se **découvrir** : télégraphie, lore, observation). Complète `BOSSES.md` (règles générales) et `BOSSCONCEPTS.md` (concepts d'Entité).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : BOSSES.md, BOSSCONCEPTS.md, BESTIARY.md, COMBAT.md, CONTROLS.md
+> **Statut** : Validé v0.1 · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : BOSSES.md, BOSSCONCEPTS.md, BESTIARY.md, COMBAT.md, CONTROLS.md
 
 ## 0. Cadre commun
 

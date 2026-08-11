@@ -2,7 +2,7 @@
 
 > Le « combien » d'Aetheria : villes, PNJ, armes, boss, quêtes. **Toutes les valeurs sont des cibles à valider en production** — elles définissent le scope de lancement, pas un catalogue figé. Complète `WORLD.md` (zones) et `BALANCE.md` (valeurs).
 
-> **Statut** : Brouillon · **Version** : 0.4 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
+> **Statut** : Validé v0.5 · **Version** : 0.5 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
 
 ## 1. Vue d'ensemble (cibles lancement)
 
@@ -13,7 +13,7 @@
 | Villages | **~30** | 2–4 par Terre |
 | Zones secrètes | **3** | Rabituza, Ruluath, Inventoriaire |
 | Donjons de progression | **5** | Voir `WORLD.md` §2 |
-| Donjons d'événement/guilde | **~12** | 1 par Terre environ |
+| Donjons d'événement/clan | **~12** | 1 par Terre environ |
 | Boss de zone | **~12** | 1 par Terre (rotation) |
 | Monstres uniques | **5** | Voir `BOSSES.md` |
 | Les Sept Entités | **7** | 2 jouables au lancement (cible), 5 en contenu post-lancement |
@@ -89,7 +89,7 @@
 | Tranches de vie | ~120 | Générées par les PNJ autonomes |
 | Situationnelles (événements) | ~80 | Réutilisables, liées aux événements mondiaux |
 | De faction | ~40 | Archives, Forge Magique, Saints, institutions |
-| De guilde | ~40 | Contenu clan (voir `CLANS.md`) |
+| De clan | ~40 | Contenu clan (voir `CLANS.md`) |
 | Économiques (artisanat) | ~20 | Chaînes matériaux → objets |
 | **Total** | **~300** | + contenu post-lancement saisonnier |
 

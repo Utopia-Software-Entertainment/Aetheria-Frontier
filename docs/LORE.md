@@ -2,7 +2,7 @@
 
 > Document d'orientation narrative et de design. Tout nom et récit sont une création originale du studio, inspirée par la culture du jeu vidéo en ligne (VRMMO) et par l'œuvre *Shangri-La Frontier* (© Katarina / Kodansha) uniquement comme source d'inspiration mécanique.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : —
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : —
 
 ## Prémisse
 

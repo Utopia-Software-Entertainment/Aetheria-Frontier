@@ -2,7 +2,7 @@
 
 > Aetheria est un monde vivant : le social est un système de jeu. Ce document couvre les groupes, la communication, la modération et les conséquences sociales des actes. Complète `CLANS.md` (clans de joueurs) et `PVP.md` (conflits).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, PVP.md, SERVICE.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, PVP.md, SERVICE.md
 
 ## 1. Principes
 
@@ -20,7 +20,7 @@
 | 2–4 | Escouade | Quêtes, donjons courts |
 | 5–8 | Groupe | Donjons, événements |
 | 9–16 | Compagnie | Raids, sièges |
-| 16–32 | Armée | Grands événements, guerres de guilde |
+| 16–32 | Armée | Grands événements, guerres de clans |
 
 - **Pas de trinité obligatoire** : un groupe se compose librement (voir `COMBAT.md`).
 - **Partage d'expérience** : égalité + bonus de proximité physique (rester proche rapporte).
@@ -31,7 +31,7 @@
 ### 3.1 Vocale (le canal principal)
 - **Voix spatiale** : la voix des autres joueurs suit position, distance, occlusion (un mur étouffe).
 - **Chuchotement** : proximité + geste (main près de la bouche).
-- **Canaux** : Escouade (global, non spatial), Guilde, Marché (annonces), Chuchotement privé.
+- **Canaux** : Escouade (global, non spatial), Clan, Marché (annonces), Chuchotement privé.
 - **Sécurité** : l'audio est traité localement (pas d'enregistrement serveur permanent) ; la transcription (Whisper) reste locale.
 
 ### 3.2 Textuelle
@@ -81,6 +81,6 @@
 | Besoin | Module moteur |
 |---|---|
 | Audio spatial multijoueur (VoIP) | `network/` + `audio/` |
-| États de groupe/guilde autoritatifs | `network/` + `game/` |
+| États de groupe/clan autoritatifs | `network/` + `game/` |
 | Modération (signalement, sanctions) | `network/` (serveur) |
 | Réputation et karma persistants | `network/` (base de données) |

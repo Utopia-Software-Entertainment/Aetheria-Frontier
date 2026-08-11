@@ -2,7 +2,7 @@
 
 > Détaille le combat d'Aetheria. Complète `SYSTEMS.md` (vue d'ensemble) et `CONTROLS.md` (canaux d'entrée).
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : SYSTEMS.md, CONTROLS.md, BESTIARY.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : SYSTEMS.md, CONTROLS.md, BESTIARY.md
 
 ## 1. Le contrat physique (moteur ↔ jeu)
 

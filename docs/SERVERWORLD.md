@@ -2,7 +2,7 @@
 
 > Comment le monde est découpé, peuplé et orchestré côté service. C'est du **game design de la population** : combien de joueurs se croisent, où, et comment le monde le « sent ». Complète `GDD.md` §8 (cible technique) et `WORLD.md` (événements).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : GDD.md, WORLD.md, NARRATIVE.md, SOCIAL.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : GDD.md, WORLD.md, NARRATIVE.md, SOCIAL.md
 
 ## 1. Principes
 
@@ -43,7 +43,7 @@
 |---|---|---|
 | Rumeurs | Shard entier | Diffusion par PNJ, journaux de ville |
 | Événements locaux | 1 Terre | Programme hebdomadaire, déclencheur par densité |
-| Événements de guilde | Shard | Inscription, arènes, tours |
+| Événements de clan | Shard | Inscription, arènes, tours |
 | Victoire sur une Entité | Shard entier | Machine à états (`NARRATIVE.md`), impact durable |
 | Catastrophes | Shard entier | Réponse à la densité (vide → brèche ; plein → invasion) |
 

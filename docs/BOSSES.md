@@ -2,7 +2,7 @@
 
 > Inspiration mécanique : les « Sept Colosses » de *Shangri-La Frontier* (© Katarina / Kodansha). Contenu original.
 
-> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : LORE.md · **Complété par** : BOSSDOSSIERS.md (dossiers complets : forces, faiblesses, IA)
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : LORE.md · **Complété par** : BOSSDOSSIERS.md (dossiers complets : forces, faiblesses, IA)
 
 ## Règles des Entités
 

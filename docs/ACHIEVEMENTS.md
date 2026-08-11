@@ -2,7 +2,7 @@
 
 > Comment Aetheria se souvient de toi. Pas de popup « succès débloqué » : la reconnaissance vit dans le monde — les PNJ, les titres et les Marques. Complète `NPC.md` (mémoire) et `DEATH.md` (conséquences).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : NPC.md, DEATH.md, BOSSES.md
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : NPC.md, DEATH.md, BOSSES.md
 
 ## 1. Principes
 
@@ -20,7 +20,7 @@
 | **Marqué de Lycaon** | Survivre à Lycaon | Crainte + suspicion (voir `BOSSES.md`) |
 | **Chroniqueur** | Découvrir 10 récits cachés | Accès aux archives |
 | **Artisan reconnu** | 10 objets légendaires | Les forgerons négocient avec vous |
-| **Titre de guilde** | Rang clan | Affiché près du nom (diégétique) |
+| **Titre de clan** | Rang de clan | Affiché près du nom (diégétique) |
 | **Titres d'événement** | Victoires d'événements | Valables une saison |
 
 - **Port du titre** : choisi par le joueur, visible près du nom (voir `UI.md`) — les PNJ l'utilisent dans le dialogue.
