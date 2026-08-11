@@ -2,6 +2,8 @@
 
 > Le système de quêtes d'Aetheria : aucun « panneau de quête » — le monde propose, le joueur choisit. Complète `NPC.md` (PNJ autonomes) et `BOSSES.md` (Entités).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : NPC.md, BOSSES.md
+
 ## 1. Principes
 
 1. **Jamais de panneau au-dessus d'une tête** — une quête se propose par le dialogue, la situation, la rumeur.

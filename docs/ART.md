@@ -2,6 +2,8 @@
 
 > L'identité visuelle d'Aetheria : un contraste **médiéval ↔ techno des Divins**, une lisibilité sans HUD, et des contraintes de performance VR strictes. Ce document oriente les assets et le style.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Art · **Dépend de** : LORE.md, BOSSES.md, WORLD.md
+
 ## 1. Principes
 
 1. **Le contraste est la signature** — le monde « actuel » est médiéval-organiciste ; l'Ère des Divins est lisse, lumineuse, anachronique.

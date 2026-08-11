@@ -2,6 +2,8 @@
 
 > Lexique du lore et des systèmes. Les définitions sont originales, inspirées des conventions VRMMO.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : tous les docs
+
 ## A–Z
 
 | Terme | Définition |

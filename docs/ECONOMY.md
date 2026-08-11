@@ -2,6 +2,8 @@
 
 > L'économie d'Aetheria : l'artisanat est un métier social (PNJ et joueurs), chaque objet est unique, l'information est une monnaie. Complète `SYSTEMS.md` (vue d'ensemble) et `CLANS.md` (guilde/échange d'info).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Économie · **Dépend de** : SYSTEMS.md, CLANS.md, LOOT.md
+
 ## 1. Principes
 
 1. **Pas de fabrication en série** — deux armes identiques n'existent pas (variations de stats/effets selon l'artisan, les matériaux, la chance).

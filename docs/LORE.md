@@ -2,6 +2,8 @@
 
 > Document d'orientation narrative et de design. Tout nom et récit sont une création originale du studio, inspirée par la culture du jeu vidéo en ligne (VRMMO) et par l'œuvre *Shangri-La Frontier* (© Katarina / Kodansha) uniquement comme source d'inspiration mécanique.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : —
+
 ## Prémisse
 
 Aetheria est un monde virtuel massivement multijoueur : un continent façonné par une civilisation disparue, dont les ruines — les **Vestiges** — parsèment le territoire et recèlent des technologies bien au-delà de ce que les habitants actuels comprennent.
@@ -19,7 +21,7 @@ Avant les Vivants, il y eut l'**Ère des Divins** : des êtres quasi mythiques q
 ## Géographie
 
 ### Les 12 Terres
-Le continent est divisé en **12 Terres**, chacune avec son biome, sa culture et sa ville principale :
+Le continent est divisé en **12 Terres**, chacune avec son biome et sa culture ; la plupart a une ville principale :
 
 1. **Priméa** — Terre de départ, prairies et forêts claires.
 2. **Secondil** — Terre des marais sombres et des forgerons.
@@ -32,6 +34,7 @@ Le continent est divisé en **12 Terres**, chacune avec son biome, sa culture et
 9. **Dixverne** — Déserts et mines.
 10. **Onzécime** — Forêts ancestrales des gardiens.
 11. **Cinquantia** — Ville-frontière n°50, la plus avancée et la plus riche.
+12. **Septième** — la **Terre Effacée** : absente des cartes, des routes et des mémoires. Les géographes la nient ; les survivants qui l'ont vue ne racontent rien de cohérent. Pourquoi les noms sautent-ils le sept ? (voir `CONTENT.md`, `BOSSCONCEPTS.md`)
 
 ### Zones notables
 - **Ruluath, la Capitale de l'Abîme** — ville construite autour du sceau de la grande corruption ; accès réservé aux Éclaireurs marqués.

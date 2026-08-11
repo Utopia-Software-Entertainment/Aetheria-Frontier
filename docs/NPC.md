@@ -2,6 +2,8 @@
 
 > Inspiration : dans *Shangri-La Frontier* (© Katarina / Kodansha), les PNJ mènent des vies qui leur appartiennent — un forgeron voyage sans prévenir, une femme cherche quelque chose qui ne concerne pas le joueur, un roi se retire. C'est la philosophie que nous transposons dans Aetheria.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, WORLD.md
+
 ## Philosophie
 
 Chez nous, un PNJ n'est **jamais un panneau de quête ambulant** :

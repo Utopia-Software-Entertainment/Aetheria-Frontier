@@ -2,6 +2,8 @@
 
 > Inspiration mécanique : les systèmes de *Shangri-La Frontier* (© Katarina / Kodansha), adaptés à nos contraintes : **aucun héros imposé — chaque joueur crée son personnage**, commandes 100 % sans manette (eye-tracking, voix, EEG/EMG, micro-sticks), physique stylisée, mode allongé.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : GDD.md, CONTROLS.md
+
 ## Principes fondateurs
 
 1. **Pas de héros, que des Éclaireurs** : l'histoire n'impose aucun personnage principal. Chaque joueur crée son personnage (origine + voie) et forge sa propre légende.

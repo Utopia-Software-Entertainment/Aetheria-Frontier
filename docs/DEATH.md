@@ -2,6 +2,8 @@
 
 > La mort dans Aetheria est une **expérience**, pas une punition. Elle a des coûts, des lieux, des rituels — et le monde s'en souvient. Complète `WORLD.md` (respawn des monstres) et `PVP.md` (pertes en PK).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : WORLD.md, PVP.md
+
 ## 1. Principes
 
 1. **La mort coûte quelque chose** — mais jamais l'équipement entier, jamais le personnage.

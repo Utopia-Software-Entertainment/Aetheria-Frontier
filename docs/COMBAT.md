@@ -2,6 +2,8 @@
 
 > Détaille le combat d'Aetheria. Complète `SYSTEMS.md` (vue d'ensemble) et `CONTROLS.md` (canaux d'entrée).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : SYSTEMS.md, CONTROLS.md, BESTIARY.md
+
 ## 1. Le contrat physique (moteur ↔ jeu)
 
 La question « physique réaliste = moteur ? » se règle ici. Le **moteur** (synapse-engine, Jolt) fournit la simulation réaliste ; le **jeu** (ce repo) définit comment elle devient du gameplay.

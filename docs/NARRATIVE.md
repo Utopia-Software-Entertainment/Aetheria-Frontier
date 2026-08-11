@@ -2,6 +2,8 @@
 
 > Aetheria n'a pas de « quête principale » au sens classique : il a une **histoire du monde** qui avance avec ou sans les joueurs, et que les joueurs font bouger à coups d'événements. Complète `LORE.md` (le passé) et `QUESTS.md` (les quêtes).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Narration · **Dépend de** : LORE.md, QUESTS.md, WORLD.md
+
 ## 1. Principes
 
 1. **Le monde raconte sans texte imposé** — pas de cinématiques de 5 minutes : des faits, des rumeurs, des traces.

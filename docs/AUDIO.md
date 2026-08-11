@@ -2,6 +2,8 @@
 
 > L'audio est **le** canal d'information d'Aetheria : sans HUD, le monde se lit par les oreilles. L'audio porte aussi la voix des PNJ et la compréhension vocale du joueur.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Audio · **Dépend de** : CONTROLS.md, UI.md
+
 ## 1. Principes
 
 1. **L'audio est le HUD** — direction des menaces, santé, recharge : tout passe par le son spatial.

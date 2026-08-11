@@ -2,6 +2,8 @@
 
 > Inspiration mécanique : les « Sept Colosses » de *Shangri-La Frontier* (© Katarina / Kodansha). Contenu original.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : LORE.md
+
 ## Règles des Entités
 
 - **Unicité absolue** : chaque Entité n'existe qu'une seule fois par serveur. **Aucun respawn.**
@@ -47,9 +49,10 @@
 - **Jinryong, le Dragon Véritable** — dragon authentique de l'Ère des Divins, sommet de la hiérarchie des dragons. Unique, non-respawnable, supérieur aux boss de zone.
 - **Aurora Kamuy** — créature des vents stratosphériques ; son habitat fournit le matériau « vent » (voir `SYSTEMS.md`).
 - **La Trinité** — créature des profondeurs marines ; habitat des matériaux « eau ».
-- **Dragon Usurpateur** — boss de zone ayant pris la place d'un ancien gardien.
 - **Serpent du Lac de Vie** — gardien des Ruines de Fer, niveau élevé, utilisé pour l'entraînement de groupe.
 - **Colosse du Bunker** — golem antique aux points vitaux multiples.
+
+> **Dragon Usurpateur** : **pas un unique** — boss de **zone** respawnable (rotation, voir `WORLD.md` §2–3). Il a usurpé la place d'un ancien gardien (dont l'identité reste secrète).
 
 ## Design rules pour Aetheria
 

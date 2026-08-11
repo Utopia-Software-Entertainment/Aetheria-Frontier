@@ -2,6 +2,8 @@
 
 > Aetheria doit être jouable par le plus grand nombre, sans trahir la promesse « sans manette ». Ce document **consolide** les réglages éparpillés (CONTROLS, AUDIO, UI, ONBOARDING) en une référence unique.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : UX · **Dépend de** : CONTROLS.md, AUDIO.md, UI.md
+
 ## 1. Philosophie
 
 1. **L'accessibilité est un réglage, pas un mode** — chaque option s'ajuste indépendamment.

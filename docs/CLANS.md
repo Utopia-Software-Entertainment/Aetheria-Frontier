@@ -2,6 +2,8 @@
 
 > Inspiration mécanique : les clans de *Shangri-La Frontier* (© Katarina / Kodansha). Contenu original.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : SOCIAL.md, PVP.md, ECONOMY.md
+
 ## Rôles des guildes
 
 Les guildes structurent la vie sociale et l'économie du monde. Aucune ne peut vaincre une Entité seule ; la compétition d'information est aussi importante que la compétition de combat.

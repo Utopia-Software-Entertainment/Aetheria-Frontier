@@ -2,6 +2,8 @@
 
 > Les valeurs de design d'Aetheria, centralisées. **Aucune valeur n'est définitive** : tout est calibré en playtest (voir §8). Ce document est la référence commune entre design et implémentation.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Équilibrage · **Dépend de** : SYSTEMS.md, COMBAT.md, ECONOMY.md
+
 ## 1. Statistiques de personnage
 
 | Stat | Rôle | Source |

@@ -2,6 +2,8 @@
 
 > Comment Aetheria se finance sans trahir sa vision. Document de travail : à valider avec la stratégie studio.
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Studio · **Dépend de** : ECONOMY.md, GDD.md
+
 ## 1. Philosophie
 
 1. **Jamais de pay-to-win** — aucune monnaie réelle ne donne un avantage de combat, de progression ou de connaissance.

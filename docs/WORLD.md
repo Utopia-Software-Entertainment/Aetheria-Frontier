@@ -2,6 +2,8 @@
 
 > Le contenu PvE du monde. Complète `LORE.md` (narration) et `BOSSES.md` (Entités).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : LORE.md, BOSSES.md, LEVELDESIGN.md
+
 ## 1. Les 12 Terres (détail)
 
 | Terre | Biome | Niveaux | Points d'intérêt |
@@ -17,7 +19,8 @@
 | **Dixverne** | Déserts, mines | 50–60 | Minerais, chantiers |
 | **Onzécime** | Forêts ancestrales | 55–65 | Gardiens anciens |
 | **Cinquantia** | Ville-frontière riche | 60–70 | Élite, enchères, raids |
-| **Zone secrète** | ? | ? | Rabituza, Ruluath, Inventoriaire (accès spéciaux) |
+| **Septième** | Terre effacée des cartes | 65–75+ | Entrée secrète (à définir) |
+| Zones secrètes (hors Terres) | ? | ? | Rabituza, Ruluath, Inventoriaire (accès spéciaux) |
 
 ## 2. Donjons
 

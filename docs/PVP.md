@@ -2,6 +2,8 @@
 
 > Le PvP d'Aetheria : toléré, encadré, à conséquences. Les PK sont un contenu, pas un accident. Complète `CLANS.md` (guildes, Ashura-Kai).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, DEATH.md, SOCIAL.md
+
 ## 1. Philosophie
 
 1. **Le PvP est un choix** — personne ne subit le PvP hors des zones prévues, sauf s'il est PK.

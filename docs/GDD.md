@@ -2,9 +2,18 @@
 
 > Document maître du jeu **Aetheria-Frontier**. Tous les autres docs de `docs/` détaillent les sections ici résumées.
 
+> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
+
+## 0. Historique de révision
+
+| Version | Date | Changement |
+|---|---|---|
+| 0.1 | 2026-07-XX | Création (vision, pillars, architecture des docs) |
+| 0.2 | 2026-08-11 | Core loop, audience, priorités P0/P1, 12e Terre (Septième), ref CONTENT.md |
+
 ## 1. Vision
 
-**Aetheria-Frontier** est un VRMMO techno-fantastique en monde ouvert : les joueurs explorent un continent façonné par une civilisation disparue (l'Ère des Divins), combattent des créatures uniques quasi invincibles, et vivent dans un monde dont les habitants — PNJ comme joueurs — mènent leur propre vie.
+**Aetheria-Frontier** est un VRMMO techno-fantastique en monde ouvert : les joueurs explorent un continent de **12 Terres** (dont une effacée des cartes, la Septième) façonné par une civilisation disparue (l'Ère des Divins), combattent des créatures uniques quasi invincibles, et vivent dans un monde dont les habitants — PNJ comme joueurs — mènent leur propre vie.
 
 La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le regard, la voix, le cerveau et les micro-mouvements. Le joueur est dans le monde, pas derrière un écran.
 
@@ -33,14 +42,46 @@ La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le r
 - Pas de pay-to-win (voir `MONETIZATION.md`).
 - Pas de contenu documenté pour les Scénarios Uniques EX.
 
-## 5. Cible technique (rappel)
+## 5. Core loop (boucle de jeu)
+
+**Boucle longue** : Explorer → Comprendre → Affronter → Survivre (ou être Marqué) → Apprendre → Retenter.
+
+**Boucle courte (combat)** : Lire le monde (regard + oreilles) → Engager (regard + voix) → Frapper juste (inertie + points vitaux + timing) → Récolter (drops, connaissances) → Repartir.
+
+**Boucle sociale** : Rencontrer (voix spatiale) → S'allier (groupe, guilde) → Coopérer (donjons, raids) → Partager l'information (marché de l'info, voir `ECONOMY.md`).
+
+## 6. Audience cible
+
+| Segment | Profil | Accès |
+|---|---|---|
+| **Cœur** | Joueurs VR 18–40, amateurs d'immersion, MMORPG et action | PCVR, PSVR2 |
+| **Casual immersif** | Joueurs allongés, sessions 30–90 min | Mode allongé, courbes douces |
+| **Hardcore** | Chasseurs de défis, guildes, chasse aux Entités | Contenu 16–32 joueurs, Scénarios EX |
+| **Spectateurs** | Diffuseurs et communautés d'événements | Événements mondiaux = spectacle (voir `SERVICE.md`) |
+
+Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas prévue.
+
+## 7. Priorités P0/P1
+
+| Priorité | Feature | Doc |
+|---|---|---|
+| **P0** | Commandes sans manette (calibration, regard, voix, allongé) | `CONTROLS.md`, `ONBOARDING.md` |
+| **P0** | Combat physique (inertie, points vitaux, critique) | `COMBAT.md`, `SYSTEMS.md` |
+| **P0** | Monde ouvert 12 Terres + donjons | `WORLD.md`, `LEVELDESIGN.md`, `CONTENT.md` |
+| **P0** | PNJ autonomes (horloge, relations, dialogue) | `NPC.md` |
+| **P1** | Les Sept Entités + Scénarios EX (cible lancement : 2, à valider) | `BOSSES.md`, `BOSSCONCEPTS.md`, `QUESTS.md` |
+| **P1** | Guildes + économie (enchères, artisanat, objets uniques) | `CLANS.md`, `ECONOMY.md`, `LOOT.md` |
+| **P1** | Événements mondiaux + machine à états | `NARRATIVE.md`, `SERVERWORLD.md` |
+| **P1** | Accessibilité consolidée + profils | `ACCESSIBILITY.md` |
+
+## 8. Cible technique (rappel)
 
 - Moteur custom **synapse-engine** (C++23, Vulkan, OpenXR, EnTT, Jolt, FMOD, LibLSL, Whisper.cpp).
 - VR full-dive sur matériel commercial : ASUS ROG + PSVR2 en entrée de gamme ; Somnium VR1 + OpenBCI en progression.
 - Réseau : 500 CCU cible v0, shards + Nakama, server meshing à terme.
 - Mode **allongé (recumbent)** : le monde pivote à 90°.
 
-## 6. Architecture des documents
+## 9. Architecture des documents
 
 | Doc | Sujet |
 |---|---|
@@ -68,8 +109,17 @@ La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le r
 | `BALANCE.md` | Bible d'équilibrage : courbes, temps, économie, tolérances |
 | `MONETIZATION.md` | Modèle économique, lignes rouges |
 | `GLOSSARY.md` | Index des termes |
+| `_TEMPLATE.md` | Modèle de document (bloc méta, structure, statuts) |
+| `CONTENT.md` | Inventaire de contenu chiffré (villes, PNJ, armes, boss, quêtes) |
+| `SERVERWORLD.md` | Structure serveur/monde : shards, population, événements globaux |
+| `LOOT.md` | Récompenses : tables de loot, raretés, anti-farm |
+| `ACHIEVEMENTS.md` | Titres, Marques, méta-progression « légende » |
+| `TESTING.md` | Playtest design, métriques, jalons QA |
+| `SERVICE.md` | Service : GMs, modération, support, communauté |
+| `BOSSCONCEPTS.md` | Concepts de combat détaillés par Entité |
+| `LEVELDESIGN.md` | Méthodologie de construction des zones |
 
-## 7. Roadmap produit
+## 10. Roadmap produit
 
 1. **Vertical slice moteur** : Core → ECS → Vulkan → OpenXR → Jolt (dans synapse-engine).
 2. **Prototype combat** : inertie + points vitaux + commandes vocales (boucle la plus courte).
@@ -78,9 +128,11 @@ La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le r
 5. **Première Entité jouable** : scénario EX complet de bout en bout.
 6. **Contenu d'échelle** : 12 Terres, guildes, économie complète, événements.
 
-## 8. Décisions à trancher (ouvert)
+## 11. Décisions à trancher (ouvert)
 
 - Noms définitifs Aetheria (remplacer les transpositions : Lycaon, Vésémon…).
 - Approche technique des PNJ : règles locales vs modèle de langage vs hybride.
 - Simulation hors-champ : périmètre exact du monde « vivant sans joueur ».
 - Équilibrage des courbes (Kai, VIT, multiplicateurs).
+- **Septième** : nature de son effacement, entrée secrète, contenu 65–75+.
+- **Scope de lancement** : nombre d'Entités, d'armes, de PNJ, de quêtes (cibles dans `CONTENT.md`).

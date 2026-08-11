@@ -2,12 +2,15 @@
 
 > Aetheria est un monde vivant : le social est un système de jeu. Ce document couvre les groupes, la communication, la modération et les conséquences sociales des actes. Complète `CLANS.md` (guildes) et `PVP.md` (conflits).
 
+> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, PVP.md, SERVICE.md
+
 ## 1. Principes
 
 1. **La communication est vocale et spatiale** — on parle avec sa voix, dans le monde, avec distance et occlusion.
 2. **Les relations sont persistantes** — amis, ennemis, réputation : le monde se souvient.
 3. **La modération est invisible** — jamais un message « signalé » affiché ; la sanction arrive en silence.
 4. **Le social est un contenu** — LFG, rumeurs, marchés : les joueurs sont les artisans de la vie sociale.
+5. **Pas de matchmaking automatique** — aucune file d'attente algorithmique : les groupes se forment **dans le monde** (non-goal assumé, voir §5).
 
 ## 2. Groupes
 
