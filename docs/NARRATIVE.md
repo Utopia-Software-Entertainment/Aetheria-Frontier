@@ -56,7 +56,7 @@
 | **L'héritage des Divins** | Continu | Ruines, reliques, compréhension du passé |
 | **La Bleue remonte** | Saison | Corruption croissante, défenses, sacrifice possible |
 | **La chasse aux Entités** | Événements liés aux victoires | Récompenses mondiales, nouvelles voies |
-| **La guerre des guildes** | Jusqu'à résolution | Conflits déclarés, conséquences économiques |
+| **La guerre des clans** | Jusqu'à résolution | Conflits déclarés, conséquences économiques |
 | **Les éclipses** | Ponctuel (calendrier du monde) | Événements célestes qui ouvrent des scénarios EX |
 
 ## 7. Règles de design narratif

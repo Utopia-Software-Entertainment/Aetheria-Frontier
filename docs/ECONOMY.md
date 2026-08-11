@@ -2,7 +2,7 @@
 
 > L'économie d'Aetheria : l'artisanat est un métier social (PNJ et joueurs), chaque objet est unique, l'information est une monnaie. Complète `SYSTEMS.md` (vue d'ensemble) et `CLANS.md` (guilde/échange d'info).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Économie · **Dépend de** : SYSTEMS.md, CLANS.md, LOOT.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Économie · **Dépend de** : SYSTEMS.md, CLANS.md, LOOT.md
 
 ## 1. Principes
 
@@ -65,7 +65,7 @@
 ## 6. Économie des Entités
 
 - La première victoire sur une Entité produit des **matériaux uniques** (un seul exemplaire au monde) — les prix deviennent des événements.
-- Les informations de scénarios EX se négocient entre guildes : l'alliance des quatre a une règle de partage (voir `CLANS.md`).
+- Les informations de scénarios EX se négocient entre **clans** ; chaque alliance fixe ses règles de partage (voir `CLANS.md` §4).
 
 ## 7. Contrat d'implémentation (rappel moteur)
 

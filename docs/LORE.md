@@ -50,7 +50,7 @@ Autrefois, une entité-catastrophe — **la Grande Bleue** — s'est répandue c
 ## Société et institutions
 
 - **Monnaie** : le **Mahni** (or, échanges de joueur à joueur, enchères).
-- **PJ (Player Killer)** : les tueurs de joueurs portent une **marque de crâne** près de leur nom — visibles de tous, chassés par les guildes.
+- **PJ (Player Killer)** : les tueurs de joueurs portent une **marque de crâne** près de leur nom — visibles de tous, chassés par les clans.
 - **Forge Magique** : corporation des forgerons NPC et joueurs. L'accès aux grands forgerons se négocie (droits de priorité).
 - **Système Mailbird** : messagerie par oiseaux, moyen de communication fiable (et gratuite pour les alliés).
 - **Saints** : clercs capables de lever certaines malédictions — service rare et cher.

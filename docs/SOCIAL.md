@@ -1,6 +1,6 @@
 # SOCIAL — Vie sociale et communication
 
-> Aetheria est un monde vivant : le social est un système de jeu. Ce document couvre les groupes, la communication, la modération et les conséquences sociales des actes. Complète `CLANS.md` (guildes) et `PVP.md` (conflits).
+> Aetheria est un monde vivant : le social est un système de jeu. Ce document couvre les groupes, la communication, la modération et les conséquences sociales des actes. Complète `CLANS.md` (clans de joueurs) et `PVP.md` (conflits).
 
 > **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, PVP.md, SERVICE.md
 

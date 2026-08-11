@@ -52,10 +52,10 @@
 
 ## 5. Cross-shard : la décision
 
-- **v0 : aucun cross-shard** — joueurs, guildes, économie sont liés à un shard.
+- **v0 : aucun cross-shard** — joueurs, clans, économie sont liés à un shard.
 - **Explication lore** : chaque shard est une **« instance du monde »** — les cartographes parlent de mondes parallèles (justification diégétique).
 - **Migration** : possible par transfert de personnage **à sens unique** (payant en temps réel, jamais en argent réel — voir `MONETIZATION.md`), sans objets d'économie portables.
-- **À terme** : server meshing pour les grandes batailles (Entités) — les guildes multi-shards se coordonnent déjà par le discours (voir `SOCIAL.md`).
+- **À terme** : server meshing pour les grandes batailles (Entités) — les clans multi-shards se coordonnent déjà par le discours (voir `SOCIAL.md`).
 
 ## 6. Instances vs zones ouvertes
 

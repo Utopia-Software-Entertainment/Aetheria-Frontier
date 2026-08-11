@@ -2,7 +2,7 @@
 
 > Document maître du jeu **Aetheria-Frontier**. Tous les autres docs de `docs/` détaillent les sections ici résumées.
 
-> **Statut** : Validé v0.4 · **Version** : 0.4 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
+> **Statut** : Validé v0.5 · **Version** : 0.5 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
 
 ## 0. Historique de révision
 
@@ -12,6 +12,7 @@
 | 0.2 | 2026-08-11 | Core loop, audience, priorités P0/P1, 12e Terre (Septième), ref CONTENT.md |
 | 0.3 | 2026-08-11 | 12 voies par canal de contrôle (SYSTEMS.md, COMBAT.md), « La Treizième » en mystère |
 | 0.4 | 2026-08-11 | BOSSDOSSIERS.md : dossiers complets de tous les boss (forces, faiblesses, IA) ; corrections CONTENT.md (uniques 5, zones ~12, Gardien du Sceau) |
+| 0.5 | 2026-08-11 | CLANS.md réécrit : clans créés par les joueurs, aucun clan pré-établi ; retrait des guildes canoniques (CONTENT, PVP, ECONOMY) |
 
 ## 1. Vision
 
@@ -58,7 +59,7 @@ La spécificité d'Aetheria : **aucune manette**. Les commandes passent par le r
 |---|---|---|
 | **Cœur** | Joueurs VR 18–40, amateurs d'immersion, MMORPG et action | PCVR, PSVR2 |
 | **Casual immersif** | Joueurs allongés, sessions 30–90 min | Mode allongé, courbes douces |
-| **Hardcore** | Chasseurs de défis, guildes, chasse aux Entités | Contenu 16–32 joueurs, Scénarios EX |
+| **Hardcore** | Chasseurs de défis, clans, chasse aux Entités | Contenu 16–32 joueurs, Scénarios EX |
 | **Spectateurs** | Diffuseurs et communautés d'événements | Événements mondiaux = spectacle (voir `SERVICE.md`) |
 
 Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas prévue.
@@ -89,7 +90,7 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 |---|---|
 | `LORE.md` | Le monde, l'Ère des Divins, les 12 Terres, la Grande Bleue, la société |
 | `BOSSES.md` | Les Sept Entités + monstres uniques, règles de design |
-| `CLANS.md` | Guildes, alliance des quatre, économie de l'information |
+| `CLANS.md` | Clans de joueurs : création, structure, alliances, guerre (aucun clan pré-établi) |
 | `SYSTEMS.md` | Création de personnage, équipement, forge, économie (vue d'ensemble) |
 | `NPC.md` | PNJ autonomes : vie propre, relations, anti-« effet IA » |
 | `GDD.md` | Ce document |
@@ -129,7 +130,7 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 3. **Prototype PNJ** : horloge mondiale + graphe de relations + dialogue contextuel.
 4. **Zones de départ** : Priméa, Secondil, Fosse des Brèches.
 5. **Première Entité jouable** : scénario EX complet de bout en bout.
-6. **Contenu d'échelle** : 12 Terres, guildes, économie complète, événements.
+6. **Contenu d'échelle** : 12 Terres, clans, économie complète, événements.
 
 ## 11. Décisions à trancher (ouvert)
 

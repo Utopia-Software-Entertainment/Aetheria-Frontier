@@ -1,8 +1,8 @@
 # PVP — Joueur contre joueur
 
-> Le PvP d'Aetheria : toléré, encadré, à conséquences. Les PK sont un contenu, pas un accident. Complète `CLANS.md` (guildes, Ashura-Kai).
+> Le PvP d'Aetheria : toléré, encadré, à conséquences. Les PK sont un contenu, pas un accident. Complète `CLANS.md` (clans de joueurs, guerres de clans).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, DEATH.md, SOCIAL.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Social · **Dépend de** : CLANS.md, DEATH.md, SOCIAL.md
 
 ## 1. Philosophie
 
@@ -37,7 +37,7 @@
 
 ## 4. Chasse aux PK
 
-- Les guildes (Loup Noir, Team 10PM…) et les primes organisent des **chasses** : pistage, embuscades, coordination (voir `CLANS.md` pour l'exemple Ashura-Kai).
+- Les **clans** et les primes organisent des **chasses** : pistage, embuscades, coordination (voir `CLANS.md` — les clans de joueurs s'y taillent une réputation).
 - Un PK déchu peut revenir par la rédemption (quêtes des Saints, actes publics) — le monde accepte le retour, pas l'oubli.
 
 ## 5. Guerres de guilde

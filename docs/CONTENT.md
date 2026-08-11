@@ -2,7 +2,7 @@
 
 > Le « combien » d'Aetheria : villes, PNJ, armes, boss, quêtes. **Toutes les valeurs sont des cibles à valider en production** — elles définissent le scope de lancement, pas un catalogue figé. Complète `WORLD.md` (zones) et `BALANCE.md` (valeurs).
 
-> **Statut** : Brouillon · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
+> **Statut** : Brouillon · **Version** : 0.4 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
 
 ## 1. Vue d'ensemble (cibles lancement)
 
@@ -20,7 +20,7 @@
 | Scénarios Uniques EX | **7** (+14+ voies) | Un par Entité, conditions secrètes |
 | PNJ nommés | **~600** | ~50 par ville principale |
 | Armes uniques | **~120** | Voir §5 |
-| Quêtes au lancement | **~300** | Tranches de vie, situationnelles, factions, guildes |
+| Quêtes au lancement | **~300** | Tranches de vie, situationnelles, factions, clans |
 | Événements simultanés | **2–4** | Un par shard |
 
 ## 2. Contenu par Terre
@@ -44,10 +44,10 @@
 
 ## 3. PNJ (population)
 
-- **~50 PNJ nommés par ville principale** → ~550 + figures mondiales (~50 : membres de guildes canoniques, l'Alliance des Quatre, figures d'histoire) ≈ **600 au lancement**.
+- **~50 PNJ nommés par ville principale** → ~550 + figures mondiales (~50 : figures d'histoire, chefs d'institutions PNJ, anciens vainqueurs d'Entités) ≈ **600 au lancement**.
 - **PNJ non nommés** (foule, gardes, passants) : ~3× les nommés par zone, sans quête, purement atmosphériques.
 - **Budget de simulation** : horloge + graphe de relations pour tous les nommés ; comportement simplifié pour la foule (voir `NPC.md`).
-- Figures nommées déjà définies : Bilac (forgeron), l'ancien roi forgeron, la femme aux vêtements d'une autre époque, la gardienne du sceau, le chef de la Bibliothèque, la Tueuse de Loup Noir, les trois fondateurs des Loups Voyageurs.
+- Figures nommées déjà définies : Bilac (forgeron), l'ancien roi forgeron, la femme aux vêtements d'une autre époque, la gardienne du sceau, un archiviste des Archives royales, les trois premiers vainqueurs d'une Entité (joueurs légendaires).
 
 ## 4. Boss (total au lancement)
 
@@ -88,7 +88,7 @@
 |---|---|---|
 | Tranches de vie | ~120 | Générées par les PNJ autonomes |
 | Situationnelles (événements) | ~80 | Réutilisables, liées aux événements mondiaux |
-| De faction | ~40 | Archives, Forge Magique, Saints, guildes canoniques |
+| De faction | ~40 | Archives, Forge Magique, Saints, institutions |
 | De guilde | ~40 | Contenu clan (voir `CLANS.md`) |
 | Économiques (artisanat) | ~20 | Chaînes matériaux → objets |
 | **Total** | **~300** | + contenu post-lancement saisonnier |

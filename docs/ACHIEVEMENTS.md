@@ -16,7 +16,7 @@
 | Titre | Obtention | Effet social |
 |---|---|---|
 | **Éclaireur** | Création de personnage | Neutre |
-| **Tueur de Vésémon** | 1re victoire d'une Entité (shard) | Les PNJ s'en souviennent, les guildes recrutent |
+| **Tueur de Vésémon** | 1re victoire d'une Entité (shard) | Les PNJ s'en souviennent, les clans recrutent |
 | **Marqué de Lycaon** | Survivre à Lycaon | Crainte + suspicion (voir `BOSSES.md`) |
 | **Chroniqueur** | Découvrir 10 récits cachés | Accès aux archives |
 | **Artisan reconnu** | 10 objets légendaires | Les forgerons négocient avec vous |

@@ -22,7 +22,7 @@ Statuts : ✅ Validé · 📝 Brouillon
 | [docs/BOSSES.md](docs/BOSSES.md) | 📝 | Les Sept Entités + monstres uniques, règles de design |
 | [docs/BOSSCONCEPTS.md](docs/BOSSCONCEPTS.md) | 📝 | Concepts de combat détaillés par Entité (phases, canaux, environnement) |
 | [docs/BOSSDOSSIERS.md](docs/BOSSDOSSIERS.md) | 📝 | Dossiers complets de tous les boss : forces, faiblesses, compétences, IA |
-| [docs/CLANS.md](docs/CLANS.md) | 📝 | Guildes, PK, alliance des quatre, économie de l'info |
+| [docs/CLANS.md](docs/CLANS.md) | 📝 | Clans de joueurs : création, structure, alliances, guerre — aucun clan pré-établi |
 | [docs/SYSTEMS.md](docs/SYSTEMS.md) | 📝 | Création de personnage, équipement, forge, économie (vue d'ensemble) |
 | [docs/NPC.md](docs/NPC.md) | 📝 | PNJ autonomes : vies propres, routines, interactions sans « effet IA » |
 | [docs/CONTROLS.md](docs/CONTROLS.md) | 📝 | Commandes sans manette : regard, voix, EEG/EMG, micro-sticks, mode allongé |
