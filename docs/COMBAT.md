@@ -2,7 +2,7 @@
 
 > Détaille le combat d'Aetheria. Complète `SYSTEMS.md` (vue d'ensemble) et `CONTROLS.md` (canaux d'entrée).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : SYSTEMS.md, CONTROLS.md, BESTIARY.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Combat · **Dépend de** : SYSTEMS.md, CONTROLS.md, BESTIARY.md
 
 ## 1. Le contrat physique (moteur ↔ jeu)
 
@@ -28,14 +28,22 @@ La simulation réaliste doit **servir la lisibilité** : le joueur doit comprend
 
 ## 2. Les voies (classes)
 
-| Voie | Rôle | Armes | Spécificité |
-|---|---|---|---|
-| **Chevalier** | Tank, protection | Épée longue, bouclier | Garde directionnelle (le bouclier suit le regard) |
-| **Mercenaire** | DPS polyvalent | Double arme (couteaux, épées) | Enchaînements à élan, style libre |
-| **Moine (Poing de l'Esprit)** | DPS corps-à-corps | Mains nues | Ki : concentrer l'EEG (flux) en puissance |
-| **Voleur → Ninja** | Furtif, critique | Lames, shurikens | Critiques sur points vitaux, déplacement |
+| Voie | Canal | Rôle | Armes | Spécificité |
+|---|---|---|---|---|
+| **Chevalier** | Regard | Tank, protection | Épée longue, bouclier | Garde directionnelle (le bouclier suit le regard) |
+| **Voleur → Ninja** | Regard | Furtif, critique | Lames, shurikens | Critiques sur points vitaux, déplacement |
+| **Faucon des Brèches** | Regard | DPS distance | Arc, arbalète, lames de jet | Visée au regard ; « respiration » (pause = précision) |
+| **Sentinelle** | Regard + allongé | Défense de zone | Pavois, armes de jet | Contrôle de zone au regard ; pensée pour le mode allongé |
+| **Orateur gravé** | Voix + TEC | Support, contrôle | Cristaux, gravures sonores | Sorts par paroles ; le silence est une vulnérabilité |
+| **Artilleur vocal** | Voix + VIT | DPS distance | Cristaux armés vocaux | Tirs sur commande vocale ; recharge par rythme de parole |
+| **Invocateur des Vestiges** | Voix + TEC | Invocation | Reliques, grimoires | Unités des Divins invoquées par mots-clés |
+| **Mercenaire** | Inertie | DPS polyvalent | Double arme (couteaux, épées) | Enchaînements à élan, style libre |
+| **Marteau du Crépuscule** | Inertie | DPS lourd | Marteaux, masses | Frappes amplifiées par amplitude réelle ; compatible allongé |
+| **Moine (Poing de l'Esprit)** | EEG | DPS corps-à-corps | Mains nues | Ki : concentrer l'EEG (flux) en puissance |
+| **Archonte du Flux** | EEG | Contrôle, support | Orbes, sceptres | Focus long : buffs mentaux, régénération, debuffs de zone |
+| **Éclaireur des Terres** | Mixte (TEC + allongé) | Mobilité, exploration | Dague, cordes, corne | Compagnon faune, pistage, survie |
 
-- Évolution : chaque voie a une branche avancée (ex. Voleur → Ninja) débloquée par des actes, pas par le niveau seul.
+- Évolution : chaque voie a une branche avancée débloquée par des **actes**, pas par le niveau seul (Voleur → Ninja, Orateur → Chantre des Échos, Éclaireur → Piste-Faune, Artilleur → Bombardier du Ciel…) — les autres branches se définissent avec chaque voie.
 
 ## 3. Actions de combat
 

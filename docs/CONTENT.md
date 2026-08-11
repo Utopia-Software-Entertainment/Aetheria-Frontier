@@ -2,7 +2,7 @@
 
 > Le « combien » d'Aetheria : villes, PNJ, armes, boss, quêtes. **Toutes les valeurs sont des cibles à valider en production** — elles définissent le scope de lancement, pas un catalogue figé. Complète `WORLD.md` (zones) et `BALANCE.md` (valeurs).
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : WORLD.md, LORE.md, BOSSES.md, SYSTEMS.md
 
 ## 1. Vue d'ensemble (cibles lancement)
 
@@ -64,9 +64,10 @@
 | Famille | Variantes | Détail |
 |---|---|---|
 | Impériales (5 familles × 3 tiers) | ~15 | Épée (STR), coutelas (DEX), rapière (AGI), dague (TEC), falchion (VIT) |
+| Voies (2–3 variantes par voie) | ~30 | Arcs/arbalètes (Faucon), pavois/armes de jet (Sentinelle), cristaux armés (Artilleur), cristaux/gravures (Orateur), reliques/grimoires (Invocateur), marteaux/masses (Marteau), orbes/sceptres (Archonte), cordes/cornes (Éclaireur), mains nues amplifiées (Moine) |
 | Exotiques | ~10 | Vocales, gravées, Divins, artisanales uniques |
 | Reliques des Divins | ~5 | Uniques mondiaux, sources d'énergie |
-| Armes d'événement/uniques nommées | ~90 | Cibles de quêtes, drops uniques, récompenses EX |
+| Armes d'événement/uniques nommées | ~60 | Cibles de quêtes, drops uniques, récompenses EX |
 | **Total armes uniques au lancement** | **~120** | Dont ~30 « signatures » nommées |
 
 - Chaque arme unique = variation de stats/effets + usure + nom propre (jamais deux identiques, voir `ECONOMY.md`).

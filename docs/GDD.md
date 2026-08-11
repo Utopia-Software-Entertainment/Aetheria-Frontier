@@ -2,7 +2,7 @@
 
 > Document maître du jeu **Aetheria-Frontier**. Tous les autres docs de `docs/` détaillent les sections ici résumées.
 
-> **Statut** : Validé v0.2 · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
+> **Statut** : Validé v0.3 · **Version** : 0.3 · **MAJ** : 2026-08-11 · **Owner** : Design · **Dépend de** : tous les docs
 
 ## 0. Historique de révision
 
@@ -10,6 +10,7 @@
 |---|---|---|
 | 0.1 | 2026-07-XX | Création (vision, pillars, architecture des docs) |
 | 0.2 | 2026-08-11 | Core loop, audience, priorités P0/P1, 12e Terre (Septième), ref CONTENT.md |
+| 0.3 | 2026-08-11 | 12 voies par canal de contrôle (SYSTEMS.md, COMBAT.md), « La Treizième » en mystère |
 
 ## 1. Vision
 
@@ -136,3 +137,4 @@ Non-cible : le jeu est **VR-first** — l'adaptation souris/clavier n'est pas pr
 - Équilibrage des courbes (Kai, VIT, multiplicateurs).
 - **Septième** : nature de son effacement, entrée secrète, contenu 65–75+.
 - **Scope de lancement** : nombre d'Entités, d'armes, de PNJ, de quêtes (cibles dans `CONTENT.md`).
+- **Voies** : noms définitifs des 12 voies (transpositions actuelles : Faucon des Brèches, Orateur gravé, Marteau du Crépuscule…), branches avancées par voie, et statut de « La Treizième » (voie cachée évoquée dans `SYSTEMS.md` — à définir en mystère ou à retirer).

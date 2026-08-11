@@ -2,7 +2,7 @@
 
 > Inspiration mécanique : les systèmes de *Shangri-La Frontier* (© Katarina / Kodansha), adaptés à nos contraintes : **aucun héros imposé — chaque joueur crée son personnage**, commandes 100 % sans manette (eye-tracking, voix, EEG/EMG, micro-sticks), physique stylisée, mode allongé.
 
-> **Statut** : Brouillon · **Version** : 0.1 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : GDD.md, CONTROLS.md
+> **Statut** : Brouillon · **Version** : 0.2 · **MAJ** : 2026-08-11 · **Owner** : Systèmes · **Dépend de** : GDD.md, CONTROLS.md
 
 ## Principes fondateurs
 
@@ -26,10 +26,26 @@ Le joueur choisit son **origine** (identité sociale) et sa **voie** (métier de
 - **Bluffeur** — apparence supérieure à la réalité, interactions sociales trompeuses.
 
 ### Voies
-- **Chevalier** — défense, tanking, protection de groupe.
-- **Mercenaire** — DPS polyvalent, armes doubles.
-- **Moine (Poing de l'Esprit)** — combat à mains nues, ki, esquives.
-- **Voleur → Ninja** — furtivité, coups critiques, déplacement supérieur.
+
+**12 voies au lancement** (cible), chacune rattachée à un **canal de contrôle prioritaire** (`CONTROLS.md`) : l'identité d'une voie vient de la façon dont le corps réel devient du combat virtuel. Les noms sont des **transpositions de travail** (comme Lycaon, Vésémon — à renommer en Aetheria, voir `GDD.md` §11).
+
+| Voie | Canal prioritaire | Rôle | Spécificité |
+|---|---|---|---|
+| **Chevalier** | Regard | Tank, protection | Garde directionnelle (le bouclier suit le regard) |
+| **Voleur → Ninja** | Regard | Furtif, critique | Critiques sur points vitaux, déplacement supérieur |
+| **Faucon des Brèches** | Regard | DPS distance | Visée au regard ; « respiration » (pause = précision) |
+| **Sentinelle** | Regard + allongé | Défense de zone | Voie pensée pour le mode allongé : contrôle de zone au regard, armes de jet |
+| **Orateur gravé** | Voix + TEC | Support, contrôle | Sorts par paroles, gravures sonores ; le silence est une vulnérabilité |
+| **Artilleur vocal** | Voix + VIT | DPS distance | Armes à commande vocale ; recharge par rythme de parole |
+| **Invocateur des Vestiges** | Voix + TEC | Invocation | Unités d'opération magique des Divins, invocation par mots-clés |
+| **Mercenaire** | Inertie | DPS polyvalent | Enchaînements à élan, style libre, armes doubles |
+| **Marteau du Crépuscule** | Inertie | DPS lourd | Frappes amplifiées par amplitude réelle ; compatible allongé |
+| **Moine (Poing de l'Esprit)** | EEG | DPS corps-à-corps | Ki : concentrer le flux (EEG) en puissance |
+| **Archonte du Flux** | EEG | Contrôle, support | Focus long : buffs mentaux, régénération, debuffs de zone |
+| **Éclaireur des Terres** | Mixte (TEC + allongé) | Mobilité, exploration | Compagnon faune (synergie Enfant des Bêtes), pistage, survie |
+
+- **Évolution** : chaque voie a une branche avancée débloquée par des **actes**, pas par le niveau seul (voir `COMBAT.md` §2).
+- Une rumeur circule dans les tavernes de la Bleue : **une treizième voie** existerait, absente de toute liste de création. Personne n'en a jamais rencontré un membre (mystère — aucune règle documentée tant que le design ne la définit pas).
 
 Chaque origine change la façon dont les PNJ traitent le joueur (voir `NPC.md`) — sans jamais l'expliquer en jeu.
 
